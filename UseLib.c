@@ -3086,3 +3086,9 @@ void SNCBC(int mynum,float mytime,int xz)
 		}
 	}
 }
+void startwork(){
+	return;
+}
+void linea(){
+	
+}
